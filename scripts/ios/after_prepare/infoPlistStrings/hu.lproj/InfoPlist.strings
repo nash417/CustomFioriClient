@@ -1,0 +1,18 @@
+﻿/* Message asking permission to access the camera. */
+"NSCameraUsageDescription" = "Az alkalmazás hozzá szeretne férni a kamerához.";
+
+/* Message asking permission to access the microphone */
+"NSMicrophoneUsageDescription" = "Az alkalmazás hozzá szeretne férni a mikrofonhoz.";
+
+/* Message asking permission to access the calendar */
+"NSCalendarsUsageDescription" = "Az alkalmazás hozzá szeretne férni a naptárhoz.";
+
+/* Message asking permission to access photo library */
+"NSPhotoLibraryUsageDescription" = "Az alkalmazás hozzá szeretne férni a könyvtárhoz.";
+
+/* Message asking permission to access contacts */
+"NSContactsUsageDescription" = "Az alkalmazás hozzá szeretne férni a kontaktokhoz.";
+
+/* Message asking permission to access location */
+"NSLocationWhenInUseUsageDescription" = "Az alkalmazás hozzá szeretne férni a tartózkodási helyhez.";
+

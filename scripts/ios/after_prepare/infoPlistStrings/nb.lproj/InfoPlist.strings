@@ -1,0 +1,12 @@
+// Message asking permission to access the camera.
+"NSCameraUsageDescription" = "App would like to access the camera.";
+// Message asking permission to access the microphone
+"NSMicrophoneUsageDescription" = "App would like to access the microphone.";
+// Message asking permission to access the calendar
+"NSCalendarsUsageDescription" = "App would like to access the calendar.";
+// Message asking permission to access photo library
+"NSPhotoLibraryUsageDescription" = "App would like to access the library.";
+// Message asking permission to access contacts
+"NSContactsUsageDescription" = "App would like to access contacts.";
+// Message asking permission to access location
+"NSLocationWhenInUseUsageDescription" = "App would like to access location.";

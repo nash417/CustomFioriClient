@@ -1,0 +1,18 @@
+﻿/* Message asking permission to access the camera. */
+"NSCameraUsageDescription" = "Приложению требуется доступ к камере.";
+
+/* Message asking permission to access the microphone */
+"NSMicrophoneUsageDescription" = "Приложению требуется доступ к микрофону.";
+
+/* Message asking permission to access the calendar */
+"NSCalendarsUsageDescription" = "Приложению требуется доступ к календарю.";
+
+/* Message asking permission to access photo library */
+"NSPhotoLibraryUsageDescription" = "Приложению требуется доступ к библиотеке.";
+
+/* Message asking permission to access contacts */
+"NSContactsUsageDescription" = "Приложению требуется доступ к контактам.";
+
+/* Message asking permission to access location */
+"NSLocationWhenInUseUsageDescription" = "Приложению требуется доступ к местоположению.";
+

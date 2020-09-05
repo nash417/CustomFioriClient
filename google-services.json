@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826106585712",
+    "firebase_url": "https://saipfiori.firebaseio.com",
+    "project_id": "saipfiori",
+    "storage_bucket": "saipfiori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826106585712:android:e3c1e171b92b5b122c0ab5",
+        "android_client_info": {
+          "package_name": "com.saip.fiori.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826106585712-ntcpp47q1vbtftltc3mvhjsnf0otnlme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MdOoNuf97l_es68VKFfSgiKyLn7lKxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826106585712-ntcpp47q1vbtftltc3mvhjsnf0otnlme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

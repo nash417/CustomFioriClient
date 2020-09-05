@@ -1,0 +1,18 @@
+﻿/* Message asking permission to access the camera. */
+"NSCameraUsageDescription" = "Appen ønsker å få tilgang til kameraet";
+
+/* Message asking permission to access the microphone */
+"NSMicrophoneUsageDescription" = "Appen ønsker å få tilgang til mikrofonen";
+
+/* Message asking permission to access the calendar */
+"NSCalendarsUsageDescription" = "Appen ønsker å få tilgang til kalenderen";
+
+/* Message asking permission to access photo library */
+"NSPhotoLibraryUsageDescription" = "Appen ønsker å få tilgang til biblioteket";
+
+/* Message asking permission to access contacts */
+"NSContactsUsageDescription" = "Appen ønsker å få tilgang til kontaktene";
+
+/* Message asking permission to access location */
+"NSLocationWhenInUseUsageDescription" = "Appen ønsker å få tilgang til lokaliseringen";
+

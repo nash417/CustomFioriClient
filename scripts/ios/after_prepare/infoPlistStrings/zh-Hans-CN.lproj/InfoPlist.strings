@@ -1,0 +1,18 @@
+﻿/* Message asking permission to access the camera. */
+"NSCameraUsageDescription" = "应用程序请求访问相机。";
+
+/* Message asking permission to access the microphone */
+"NSMicrophoneUsageDescription" = "应用程序请求访问麦克风。";
+
+/* Message asking permission to access the calendar */
+"NSCalendarsUsageDescription" = "应用程序请求访问日历。";
+
+/* Message asking permission to access photo library */
+"NSPhotoLibraryUsageDescription" = "应用程序请求访问图库。";
+
+/* Message asking permission to access contacts */
+"NSContactsUsageDescription" = "应用程序请求访问联系人。";
+
+/* Message asking permission to access location */
+"NSLocationWhenInUseUsageDescription" = "应用程序请求访问位置。";
+
